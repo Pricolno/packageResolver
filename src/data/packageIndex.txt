@@ -1,0 +1,500 @@
+germicides 0: gaspereaus 0
+prokaryote 3: prerestrict 2..8, predenying 2..3, dryope 1, dissevered 1..3, goofah 3
+oleins 9: dissevered 4, comblessness 2..3, reeler 3..8, metatheses 6, sandpaper 1..2, cyprian 1, pokes 1..4, chloritize 2..4, nonvalent 4..9, asthenobiotic 1..10, sandpaper 2, asthenobiotic 6..11, dryope 0..1
+culilawan 3: gaspereaus 0
+shlock 1: bareheaded 4, prerestrict 5..9, pokes 2
+digs 10: dissevered 0..3, craniospinal 12..13, chroococcus 1..3, dryope 2, paracerebellar 2, cyprian 6, mutatory 0..1, bowdlerizer 7..8, encloak 3..5, bareheaded 6..10
+subfile 6: chloritize 5..7, goofah 6, culilawan 2..3, paracerebellar 1, seriocomedy 2..5, prerestrict 5..9, encloak 4..7
+uncribbing 1: metatheses 0
+reeler 3: cantily 0..1, uncribbing 0, talmas 0, bareheaded 1, goofah 0..1, oleins 1
+prokaryote 2: prerestrict 6, predenying 2..3, dryope 0, dissevered 1..2
+pokes 3: triunity 2..4, gaspereaus 0, dishabilitate 1..3, asthenobiotic 0, mutatory 0..4
+triunity 6: uncribbing 0..2, chroococcus 3, observantine 1, prerestrict 10, rigole 3..4, metatheses 3..5, cyprian 0, dryope 0, rigole 3..5
+congruous 6: predenying 1..4, pokes 0, sandpaper 0..1, rigole 0, seriocomedy 4..5, mutatory 1, decanally 0, cyprian 0..1, prokaryote 0, observantine 1..2
+mutatory 6: prerestrict 1..7, predenying 5, dishabilitate 4..5, chloritize 4..5, congruous 4, dissevered 0..3, goofah 2..4
+polyphylly 2: prokaryote 0, bowdlerizer 2, metatheses 0..1, dishabilitate 2, digs 2..3, pokes 0..1
+nonvalent 5: prokaryote 1, mutatory 0..2, decanally 0, bowdlerizer 1..2, metatheses 0, cantily 0..1, gaspereaus 0, gaspereaus 0
+unbemourned 8: dissevered 5..7, wainable 5, rigole 0..6, observantine 2..8, seriocomedy 2..7, prerestrict 4..12, prerestrict 11, dishabilitate 3..9, mutatory 2..7
+culilawan 2: 
+craniospinal 5: observantine 2, seriocomedy 3..5, comblessness 2, chloritize 6, dissevered 2, culilawan 4..5, digs 0..4
+encloak 9: bowdlerizer 4..7, bowdlerizer 6..8, observantine 6, subfile 6..9, rigole 7..8, decanally 0..4, dryope 2..3, congruous 8, dryope 3, prokaryote 2, decanally 4, rigole 8, cantily 6
+asthenobiotic 6: cantily 3..4, decanally 0, cyprian 1, pokes 0..1, gaspereaus 0, digs 2
+prerestrict 10: predenying 1..5, pokes 0..4, goofah 1..5, sandpaper 0..1, digs 0..1, cyprian 1, decanally 0, stashing 6, sandpaper 2, germicides 1, culilawan 3..4, unbemourned 1, dryope 1..2, prokaryote 1..2, wainable 4
+craniospinal 12: observantine 5, seriocomedy 3..6, comblessness 1..4, chloritize 10, dissevered 6..7, culilawan 2..5, digs 7..8, comblessness 4, wainable 3, hesychastic 0..1
+dishabilitate 1: 
+unbemourned 7: dissevered 4..8, wainable 4, rigole 1..5, observantine 3..7, seriocomedy 2..6, prerestrict 6..8, prerestrict 11, dishabilitate 4..7
+metatheses 13: predenying 9, bareheaded 7..10, salacot 1..3, predenying 9, stashing 2..6, stashing 1..8, predenying 1..2, asthenobiotic 9..10, observantine 11, stashing 0..7, praiseworthily 0..2
+mutatory 2: prerestrict 1, predenying 0, dishabilitate 0, chloritize 0
+congruous 3: predenying 1, pokes 0, sandpaper 0, rigole 0, seriocomedy 0
+asthenobiotic 7: cantily 0..4, decanally 0, cyprian 0..3, pokes 3, gaspereaus 0, digs 0..4, digs 4, hesychastic 0
+nonvalent 9: prokaryote 5, mutatory 0..1, decanally 1, bowdlerizer 4, metatheses 1, cantily 3..4, gaspereaus 0, gaspereaus 0, talmas 0, bowdlerizer 0..3, shlock 0
+bareheaded 4: paracerebellar 0, bowdlerizer 1..2, chroococcus 2..3
+salacot 1: goofah 1..2, dissevered 2, reeler 5, dishabilitate 0..2
+craniospinal 10: observantine 6, seriocomedy 7..8, comblessness 0..3, chloritize 2..5, dissevered 7, culilawan 3..5, digs 1..4, comblessness 1..3
+dissevered 0: prerestrict 0, congruous 0
+congruous 10: predenying 4..6, pokes 5, sandpaper 3, rigole 0..1, seriocomedy 0, mutatory 2..6, decanally 2, cyprian 5, prokaryote 7, observantine 3, polyphylly 1..7, chloritize 2..4, bowdlerizer 0..2, reeler 6..7
+dishabilitate 8: congruous 0..8, cyprian 3..4, dryope 2, goofah 2..3, craniospinal 2..8, predenying 4, mutatory 3..4, bowdlerizer 1
+goofah 8: pokes 1..3, mutatory 2..6, predenying 5, rigole 5, stashing 0..3, craniospinal 5, pokes 4..5, germicides 1..3, salacot 0..2, seriocomedy 5..7, mutatory 3..4
+unpummeled 2: prerestrict 1..4, rigole 0, predenying 1..2, uncribbing 0
+rigole 7: predenying 0..5, sandpaper 2, subfile 5..8, asthenobiotic 10, subfile 0..1, unbemourned 5..6, predenying 2, prerestrict 5..11, thalenite 6
+asthenobiotic 0: 
+bowdlerizer 5: seriocomedy 0..6, cyprian 0..1, congruous 0..5, reeler 2..3, chloritize 1..3, wainable 1, sandpaper 1
+cantily 1: sandpaper 0, sandpaper 0
+metatheses 11: predenying 1..7, bareheaded 9..10, salacot 1..2, predenying 0..2, stashing 1..6, stashing 2..7, predenying 6..7, asthenobiotic 3..10, observantine 2..4
+craniospinal 13: observantine 4..5, seriocomedy 5..8, comblessness 1..2, chloritize 4..10, dissevered 7..8, culilawan 1..3, digs 2..7, comblessness 2, wainable 4..5, hesychastic 1..2, unpummeled 3
+talmas 7: wainable 0..1, uncribbing 2, paracerebellar 4..5, dissevered 3..8, subfile 7, thalenite 3..4, pidgizing 3..4, rigole 1..6
+subfile 5: chloritize 5, goofah 0..4, culilawan 0..3, paracerebellar 2, seriocomedy 0..5, prerestrict 5..9
+triunity 10: uncribbing 7, chroococcus 0, observantine 8, prerestrict 2..11, rigole 1..4, metatheses 5..12, cyprian 5, dryope 2..3, rigole 2..7, dissevered 2..6, observantine 5..6, talmas 7, hesychastic 0..1, unbemourned 3..7
+germicides 6: gaspereaus 0, goofah 5..8, stashing 6..9, craniospinal 2..9, digs 4..7, unbemourned 2..5, dissevered 8..9, encloak 5, asthenobiotic 2, bowdlerizer 6..9, nonvalent 12..13
+predenying 6: pokes 3..4, unpummeled 2, comblessness 3, polyphylly 5..6, nonvalent 4..7, pokes 3..4, hesychastic 0, congruous 3..6, reeler 1..5
+observantine 0: rigole 0, seriocomedy 0
+observantine 9: rigole 5, seriocomedy 4..6, dishabilitate 3..9, reeler 1..6, polyphylly 3, predenying 8..9, unpummeled 0, uncribbing 2, rigole 2..3
+praiseworthily 0: talmas 0..5
+sandpaper 6: comblessness 1..2, cantily 3..9, cardel 1..11, seriocomedy 11
+culilawan 0: 
+goofah 5: pokes 4, mutatory 5, predenying 3, rigole 5, stashing 4, craniospinal 3..5, pokes 1..3
+nonvalent 13: prokaryote 8, mutatory 1..2, decanally 4..6, bowdlerizer 2..8, metatheses 8..9, cantily 5, gaspereaus 0..1, gaspereaus 0..1, talmas 1..2, bowdlerizer 5..7, shlock 3, unbemourned 2, predenying 8..9, gaspereaus 1, dissevered 1..2
+mutatory 8: prerestrict 10, predenying 2, dishabilitate 1..6, chloritize 4..8, congruous 10, dissevered 2..4, goofah 5..6, unbemourned 8
+dishabilitate 7: congruous 5, cyprian 3..4, dryope 0, goofah 3..5, craniospinal 4..5, predenying 3..5
+dryope 1: 
+goofah 6: pokes 3, mutatory 2, predenying 0..5, rigole 5, stashing 5, craniospinal 2, pokes 1..3, germicides 1
+reeler 10: cantily 0..5, uncribbing 1..2, talmas 1, bareheaded 4..6, goofah 5..7, oleins 8..9, cyprian 1..2, unbemourned 4, digs 0..2, stashing 7, seriocomedy 0..3, pokes 3..4, dryope 2, germicides 2
+decanally 5: prokaryote 7, comblessness 0..1, goofah 1..6, nonvalent 9..11, shlock 1
+culilawan 7: gaspereaus 1, digs 1..6, rigole 4..5
+goofah 2: pokes 0..1, mutatory 2, predenying 3, rigole 0
+gaspereaus 0: stashing 0, unbemourned 0
+bowdlerizer 8: seriocomedy 7, cyprian 3..4, congruous 5..8, reeler 7, chloritize 7, wainable 3..4, sandpaper 0, prokaryote 5..6, talmas 4..6, nonvalent 4..9, metatheses 2..3
+triunity 2: uncribbing 1, chroococcus 1, observantine 0, prerestrict 1
+bowdlerizer 9: seriocomedy 8, cyprian 0..2, congruous 5..6, reeler 5..6, chloritize 9..10, wainable 0..1, sandpaper 2, prokaryote 7..8, talmas 0..3, nonvalent 10..11, metatheses 4..7, oleins 8
+subfile 12: chloritize 9..11, goofah 5..9, culilawan 7, paracerebellar 6, seriocomedy 10, prerestrict 8..12, encloak 4..9, predenying 7..11, decanally 3..6, cyprian 6, bareheaded 0..10, polyphylly 8, cyprian 4..5, praiseworthily 3
+dishabilitate 0: 
+prerestrict 6: predenying 0, pokes 0, goofah 1, sandpaper 0..1, digs 1..2, cyprian 0..1, decanally 0, stashing 3, sandpaper 1, germicides 0
+subfile 8: chloritize 5..7, goofah 4..5, culilawan 3..6, paracerebellar 3..4, seriocomedy 5..6, prerestrict 1..11, encloak 6, predenying 2..5
+talmas 0: 
+prokaryote 6: prerestrict 4, predenying 2, dryope 2, dissevered 3, goofah 3, shlock 0..1, digs 2
+craniospinal 3: observantine 1..2, seriocomedy 2..4, comblessness 0..1, chloritize 0, dissevered 0..2
+rigole 1: predenying 3..4, sandpaper 0, subfile 0
+pokes 4: triunity 4, gaspereaus 0, dishabilitate 0..4, asthenobiotic 3..5, mutatory 2..4, predenying 3..4, stashing 2..5
+seriocomedy 7: prokaryote 1, rigole 2..4, predenying 3..4, uncribbing 0..3, digs 3
+oleins 12: dissevered 0..2, comblessness 1, reeler 9..10, metatheses 9, sandpaper 3, cyprian 5..6, pokes 8..10, chloritize 6..8, nonvalent 0..3, asthenobiotic 5, sandpaper 1..2, asthenobiotic 4..7, dryope 2, cyprian 3, germicides 1
+rigole 9: predenying 5..6, sandpaper 1, subfile 0..10, asthenobiotic 1..2, subfile 4, unbemourned 5..9, predenying 1..4, prerestrict 9, thalenite 6..8, goofah 5..8, bowdlerizer 0, congruous 4
+germicides 3: gaspereaus 0, goofah 2..6, stashing 1..6, craniospinal 1..3, digs 4..6, unbemourned 5, dissevered 5
+salacot 0: goofah 1..2, dissevered 1
+asthenobiotic 5: cantily 4, decanally 0, cyprian 0, pokes 0..1, gaspereaus 0, digs 1..2
+pokes 1: triunity 2, gaspereaus 0
+oleins 5: dissevered 2..3, comblessness 0..1, reeler 3..5, metatheses 2..3, sandpaper 1, cyprian 3..4
+reeler 11: cantily 1..6, uncribbing 1..2, talmas 6, bareheaded 7..10, goofah 9, oleins 1..3, cyprian 3..6, unbemourned 6..8, digs 4..7, stashing 0..1, seriocomedy 8, pokes 8, dryope 2..3, germicides 4
+pokes 10: triunity 6..8, gaspereaus 1, dishabilitate 2..4, asthenobiotic 10..11, mutatory 5..6, predenying 1..4, stashing 0..2, prokaryote 7, decanally 3..5, bareheaded 6..8, dishabilitate 4..8, chroococcus 2..3, cantily 8, unpummeled 0..1, reeler 9
+bowdlerizer 3: seriocomedy 3, cyprian 0..1, congruous 2..4, reeler 3
+nonvalent 11: prokaryote 2..3, mutatory 3, decanally 2, bowdlerizer 6..7, metatheses 3..8, cantily 1..4, gaspereaus 0, gaspereaus 0, talmas 4, bowdlerizer 1..2, shlock 1, unbemourned 2..3
+congruous 1: predenying 1, pokes 0, sandpaper 0
+gaspereaus 2: stashing 0..3, unbemourned 0..1, germicides 3..6
+metatheses 8: predenying 6, bareheaded 2..6, salacot 1..2, predenying 1, stashing 2..6
+encloak 10: bowdlerizer 2..7, bowdlerizer 9, observantine 11, subfile 2..10, rigole 1..2, decanally 3..4, dryope 3, congruous 12, dryope 1, prokaryote 6..8, decanally 1..6, rigole 2..5, cantily 8, polyphylly 6..10, praiseworthily 2
+digs 4: dissevered 2, craniospinal 1
+bowdlerizer 4: seriocomedy 3..6, cyprian 0, congruous 7, reeler 6, chloritize 3
+encloak 8: bowdlerizer 0..2, bowdlerizer 8, observantine 4..5, subfile 5..9, rigole 4..7, decanally 1, dryope 1, congruous 11, dryope 2, prokaryote 8, decanally 1..3, rigole 0..2, cantily 1..4
+predenying 9: pokes 6..10, unpummeled 4, comblessness 1..2, polyphylly 1..8, nonvalent 8, pokes 1, hesychastic 1..2, congruous 10, reeler 2..8, culilawan 0..1, chloritize 0..1, dryope 3, sandpaper 0, mutatory 5..6
+uncribbing 4: metatheses 0..4, stashing 7, gaspereaus 1, wainable 2
+chloritize 6: mutatory 5..6, cyprian 4, digs 4, stashing 1, decanally 0, comblessness 1..2, goofah 2, goofah 1, hesychastic 0, pokes 4
+culilawan 6: gaspereaus 0, digs 2, rigole 4..5
+bareheaded 1: paracerebellar 1..2
+pokes 5: triunity 1..5, gaspereaus 0, dishabilitate 2, asthenobiotic 6..8, mutatory 5, predenying 2..3, stashing 1..4, prokaryote 3..4, decanally 0..1
+praiseworthily 1: talmas 3, comblessness 3, bareheaded 7..10
+chloritize 0: mutatory 1
+observantine 8: rigole 3..5, seriocomedy 4..7, dishabilitate 8, reeler 2..6, polyphylly 0..3, predenying 3..4, unpummeled 0..3
+oleins 7: dissevered 2..3, comblessness 2..3, reeler 3..8, metatheses 5, sandpaper 2, cyprian 4, pokes 4..6, chloritize 5, nonvalent 6, asthenobiotic 4..7
+prerestrict 7: predenying 3, pokes 2, goofah 1, sandpaper 1, digs 0..3, cyprian 1, decanally 0, stashing 0..3, sandpaper 0..1, germicides 0
+asthenobiotic 1: cantily 2..3, decanally 0
+nonvalent 12: prokaryote 4..5, mutatory 1..5, decanally 4, bowdlerizer 5..7, metatheses 2..8, cantily 2..7, gaspereaus 1, gaspereaus 0..1, talmas 2, bowdlerizer 4..9, shlock 0..1, unbemourned 7, predenying 5..7
+wainable 6: prokaryote 5..6, prokaryote 1..4
+congruous 9: predenying 3..6, pokes 2..7, sandpaper 3, rigole 6, seriocomedy 5, mutatory 3..4, decanally 0, cyprian 0..4, prokaryote 1..7, observantine 1..3, polyphylly 5..8, chloritize 3..5, bowdlerizer 5..6
+reeler 4: cantily 1..2, uncribbing 0..1, talmas 0, bareheaded 0, goofah 1, oleins 2, cyprian 0
+triunity 9: uncribbing 3, chroococcus 1..5, observantine 4..7, prerestrict 9..11, rigole 6, metatheses 0..3, cyprian 1..2, dryope 2, rigole 4..7, dissevered 1..4, observantine 3..4, talmas 1..2, hesychastic 2
+stashing 11: dishabilitate 2..7, mutatory 0..7, prerestrict 0, decanally 2..3, pidgizing 4..6, reeler 8, mutatory 5..6, nonvalent 5..13, salacot 1..4, craniospinal 3, seriocomedy 9..10, culilawan 4, thalenite 9, germicides 3..4, dissevered 3..4
+cantily 6: sandpaper 1..2, sandpaper 1, metatheses 0..3, talmas 3, observantine 1..2, bareheaded 2..3, goofah 2
+unpummeled 0: prerestrict 1
+pokes 6: triunity 2, gaspereaus 0, dishabilitate 7, asthenobiotic 9..11, mutatory 6, predenying 6, stashing 5, prokaryote 5, decanally 0, bareheaded 6, dishabilitate 6
+pidgizing 3: prokaryote 3, stashing 1, prokaryote 1..2
+triunity 4: uncribbing 0, chroococcus 0, observantine 1, prerestrict 2..3, rigole 0
+stashing 12: dishabilitate 2..8, mutatory 2..6, prerestrict 5..13, decanally 2..5, pidgizing 5, reeler 5..12, mutatory 5..8, nonvalent 0..4, salacot 0..3, craniospinal 0..2, seriocomedy 3, culilawan 4..7, thalenite 2..4, germicides 6..7, dissevered 8, prerestrict 6..8
+dissevered 7: prerestrict 6..9, congruous 1..5, subfile 2..4, reeler 4..6, chloritize 6, craniospinal 1..4, dishabilitate 8, nonvalent 8..11, craniospinal 2..5
+oleins 10: dissevered 4, comblessness 1..3, reeler 9..10, metatheses 1..6, sandpaper 1..2, cyprian 2..5, pokes 0..8, chloritize 1..3, nonvalent 6..11, asthenobiotic 4..6, sandpaper 3, asthenobiotic 11, dryope 1..2, cyprian 4..5
+craniospinal 2: observantine 1..2, seriocomedy 2..5, comblessness 1
+thalenite 5: encloak 2..4, chroococcus 2, gaspereaus 0, dryope 2, comblessness 2
+reeler 9: cantily 4..6, uncribbing 2, talmas 3..4, bareheaded 6, goofah 3..5, oleins 2..9, cyprian 0..2, unbemourned 4, digs 1..4, stashing 0..5, seriocomedy 6, pokes 3, dryope 2
+digs 8: dissevered 7..8, craniospinal 8..9, chroococcus 6, dryope 3, paracerebellar 2..5, cyprian 5, mutatory 0..6
+seriocomedy 3: prokaryote 0, rigole 0, predenying 0..2
+predenying 7: pokes 6..9, unpummeled 0..3, comblessness 2, polyphylly 7..10, nonvalent 8..11, pokes 9, hesychastic 2, congruous 2..9, reeler 6..7, culilawan 2..4, chloritize 4
+decanally 4: prokaryote 4..6, comblessness 2, goofah 4..5, nonvalent 9..10
+seriocomedy 11: prokaryote 8, rigole 4..7, predenying 8, uncribbing 2..3, digs 0..4, cantily 1..8, rigole 3, chroococcus 7, digs 7..8, stashing 1..9
+metatheses 2: predenying 2, bareheaded 0
+polyphylly 9: prokaryote 7, bowdlerizer 5..6, metatheses 4..7, dishabilitate 3..8, digs 4..7, pokes 1..2, uncribbing 2..3, dishabilitate 6..7, dryope 1, subfile 7..8, stashing 7, encloak 1..3
+digs 2: dissevered 0..2
+metatheses 9: predenying 5..6, bareheaded 10, salacot 4, predenying 0..2, stashing 4..6
+dishabilitate 4: congruous 0..7, cyprian 3..4, dryope 0, goofah 2
+metatheses 3: predenying 0..2, bareheaded 2
+salacot 2: goofah 3, dissevered 0..2, reeler 2..3, dishabilitate 2..3, observantine 0..1
+wainable 0: 
+prerestrict 3: predenying 0..1, pokes 0, goofah 1, sandpaper 0, digs 0..1, cyprian 0, decanally 0
+nonvalent 0: 
+chroococcus 1: mutatory 1, cantily 0
+decanally 7: prokaryote 6..8, comblessness 4, goofah 2..3, nonvalent 8..11, shlock 2..3, congruous 0..2, dryope 3, thalenite 1..7, metatheses 2..5
+comblessness 0: predenying 1
+goofah 10: pokes 1..9, mutatory 9, predenying 6..11, rigole 10, stashing 3..12, craniospinal 3..5, pokes 2..10, germicides 7, salacot 1..4, seriocomedy 3..5, mutatory 8..9, cardel 9..10, polyphylly 0..7
+craniospinal 9: observantine 3, seriocomedy 6, comblessness 0..1, chloritize 1..3, dissevered 0..1, culilawan 5..6, digs 2..4
+oleins 8: dissevered 1..2, comblessness 3, reeler 8, metatheses 6, sandpaper 1..2, cyprian 1, pokes 6, chloritize 1..6, nonvalent 4..10, asthenobiotic 8..10, sandpaper 0..1, asthenobiotic 11
+sandpaper 5: comblessness 0..4, cantily 3, cardel 10..11, seriocomedy 0..5
+cardel 3: dishabilitate 1..3, cyprian 1
+stashing 7: dishabilitate 4..7, mutatory 3..5, prerestrict 5, decanally 1..2, pidgizing 0..5, reeler 8, mutatory 6, nonvalent 11, salacot 2..3
+comblessness 4: predenying 3..9, chloritize 1..7, thalenite 3..6
+shlock 4: bareheaded 2..5, prerestrict 0..2, pokes 5..8, bareheaded 10, craniospinal 6..12, germicides 3..5, pokes 8, prokaryote 4..9
+sandpaper 2: comblessness 1..2, cantily 0..5
+chloritize 7: mutatory 5, cyprian 4, digs 3, stashing 3..6, decanally 0, comblessness 2..3, goofah 5, goofah 5, hesychastic 0, pokes 4..6, stashing 6
+thalenite 6: encloak 5..6, chroococcus 3, gaspereaus 0, dryope 2, comblessness 2
+prerestrict 8: predenying 0..1, pokes 0..2, goofah 2..3, sandpaper 2, digs 0, cyprian 3..4, decanally 0, stashing 3..6, sandpaper 1..2, germicides 0, culilawan 2
+stashing 10: dishabilitate 1..7, mutatory 4..7, prerestrict 12, decanally 0..1, pidgizing 4, reeler 5..9, mutatory 7..8, nonvalent 3..12, salacot 1..4, craniospinal 6..9, seriocomedy 8, culilawan 6, thalenite 7
+prerestrict 12: predenying 1..6, pokes 2..5, goofah 3..6, sandpaper 3, digs 2..4, cyprian 1, decanally 4..5, stashing 3..4, sandpaper 3, germicides 3, culilawan 1..4, unbemourned 3..6, dryope 2, prokaryote 5..7, wainable 4, polyphylly 2..3, encloak 7..8, germicides 0..3
+prerestrict 4: predenying 3, pokes 1, goofah 0, sandpaper 0, digs 1..2, cyprian 0, decanally 0, stashing 0, sandpaper 0
+observantine 3: rigole 1, seriocomedy 2, dishabilitate 0..3, reeler 8
+chloritize 11: mutatory 7, cyprian 2, digs 3..5, stashing 3..4, decanally 2..3, comblessness 3..4, goofah 8..9, goofah 6..9, hesychastic 0..1, pokes 3, stashing 4..8, pidgizing 6, pidgizing 6, asthenobiotic 10..11, digs 7..8
+germicides 1: gaspereaus 0, goofah 0..3, stashing 1..4
+thalenite 0: encloak 2
+nonvalent 3: prokaryote 0, mutatory 1, decanally 0, bowdlerizer 0..1, metatheses 0
+metatheses 12: predenying 6..7, bareheaded 8..10, salacot 4, predenying 6..7, stashing 2..5, stashing 0, predenying 2, asthenobiotic 2..5, observantine 1..3
+uncribbing 6: metatheses 4..6, stashing 1..2, gaspereaus 1, wainable 3, observantine 5..6
+hesychastic 3: dissevered 3, bareheaded 9..10, rigole 3..9
+uncribbing 3: metatheses 1..2, stashing 3
+unbemourned 1: dissevered 2
+talmas 1: 
+encloak 1: bowdlerizer 1, bowdlerizer 1..2, observantine 0
+talmas 6: wainable 2..3, uncribbing 2..3, paracerebellar 1, dissevered 1..6, subfile 1..2, thalenite 4, pidgizing 4..5
+praiseworthily 3: talmas 3..6, comblessness 4, bareheaded 9
+shlock 2: bareheaded 8..9, prerestrict 6..9, pokes 2..7, bareheaded 4..6
+cantily 2: sandpaper 0, sandpaper 0
+nonvalent 1: prokaryote 0, mutatory 2
+decanally 6: prokaryote 2..6, comblessness 2..3, goofah 9, nonvalent 6..9, shlock 0..1, congruous 6..11, dryope 1..3
+unbemourned 6: dissevered 4..6, wainable 4, rigole 1, observantine 2..5, seriocomedy 4..5, prerestrict 2..7, prerestrict 5..11, dishabilitate 8
+paracerebellar 4: pokes 2..3, reeler 3..5, subfile 2, unpummeled 1..2, mutatory 3, cyprian 0..1
+dissevered 4: prerestrict 9, congruous 0..4, subfile 2..5, reeler 2..3, chloritize 1..3
+wainable 1: 
+chloritize 3: mutatory 1, cyprian 0, digs 2, stashing 2..4, decanally 0
+oleins 6: dissevered 3, comblessness 2, reeler 5, metatheses 4, sandpaper 1..2, cyprian 1..4, pokes 4, chloritize 2..5
+subfile 4: chloritize 1, goofah 3, culilawan 0, paracerebellar 0..2
+craniospinal 8: observantine 2..3, seriocomedy 2..4, comblessness 1..2, chloritize 6..7, dissevered 2, culilawan 4, digs 4
+dissevered 6: prerestrict 7..8, congruous 5..10, subfile 2, reeler 5..7, chloritize 2..6, craniospinal 0..1, dishabilitate 6..8, nonvalent 4..11, craniospinal 2..6
+chloritize 9: mutatory 1..5, cyprian 3..6, digs 7, stashing 4..6, decanally 0..1, comblessness 0..2, goofah 3, goofah 5..8, hesychastic 1..2, pokes 2..4, stashing 4..7, pidgizing 2..3, pidgizing 2..4, asthenobiotic 0..3
+rigole 3: predenying 3, sandpaper 1, subfile 1, asthenobiotic 1..3
+bareheaded 5: paracerebellar 2..3, bowdlerizer 4..5, chroococcus 0..2, pidgizing 0
+pokes 8: triunity 4..6, gaspereaus 0..1, dishabilitate 7, asthenobiotic 0..6, mutatory 1..6, predenying 5..6, stashing 4..6, prokaryote 1..6, decanally 2, bareheaded 5, dishabilitate 2..5, chroococcus 3, cantily 1
+stashing 4: dishabilitate 0..1, mutatory 3, prerestrict 6..7, decanally 0, pidgizing 2, reeler 2..5
+stashing 8: dishabilitate 3..5, mutatory 0..5, prerestrict 3..9, decanally 5, pidgizing 0, reeler 3..10, mutatory 1..3, nonvalent 4..12, salacot 2, craniospinal 0..5, seriocomedy 3..8
+talmas 8: wainable 3..5, uncribbing 0..2, paracerebellar 3..4, dissevered 1..6, subfile 9..10, thalenite 7, pidgizing 5, rigole 3
+cantily 0: sandpaper 0
+stashing 9: dishabilitate 1..8, mutatory 1, prerestrict 10..12, decanally 3, pidgizing 0..4, reeler 6..11, mutatory 1, nonvalent 11, salacot 4, craniospinal 8..9, seriocomedy 0..1
+prokaryote 4: prerestrict 3..5, predenying 1, dryope 0..1, dissevered 3, goofah 2
+reeler 12: cantily 7, uncribbing 2..6, talmas 4..7, bareheaded 2..7, goofah 4, oleins 11, cyprian 4..6, unbemourned 7, digs 2..5, stashing 5..8, seriocomedy 7..9, pokes 8..10, dryope 0..1, germicides 3, rigole 0
+encloak 6: bowdlerizer 4, bowdlerizer 0..4, observantine 2, subfile 0..4, rigole 0..1, decanally 0, dryope 0..2, congruous 4, dryope 2, prokaryote 2..4, decanally 0
+triunity 7: uncribbing 2..3, chroococcus 1..2, observantine 5, prerestrict 10..11, rigole 0, metatheses 6, cyprian 0, dryope 1, rigole 6, dissevered 5..7
+seriocomedy 8: prokaryote 5, rigole 6, predenying 4..6, uncribbing 2, digs 3..4, cantily 0..5
+polyphylly 6: prokaryote 0, bowdlerizer 0, metatheses 0, dishabilitate 2..3, digs 2, pokes 1, uncribbing 0, dishabilitate 0..3, dryope 0, subfile 2
+prerestrict 5: predenying 4, pokes 1, goofah 0..1, sandpaper 0, digs 3, cyprian 0, decanally 0, stashing 3, sandpaper 0, germicides 0
+uncribbing 7: metatheses 5, stashing 7, gaspereaus 1, wainable 5, observantine 4..7, cyprian 0..5, dryope 0..3
+wainable 5: prokaryote 0..5, prokaryote 1..7
+rigole 8: predenying 7, sandpaper 2..3, subfile 5, asthenobiotic 9..10, subfile 0..9, unbemourned 1..4, predenying 3..7, prerestrict 4..12, thalenite 4, goofah 5..6
+cardel 2: dishabilitate 3, cyprian 1
+congruous 4: predenying 1, pokes 0, sandpaper 0, rigole 0, seriocomedy 0, mutatory 0..2
+cyprian 2: comblessness 1..2, chroococcus 2..4, encloak 4
+dissevered 3: prerestrict 1, congruous 3..4, subfile 0, reeler 0, chloritize 0
+pidgizing 1: prokaryote 0
+asthenobiotic 2: cantily 1, decanally 0, cyprian 0..1, pokes 1
+cardel 0: dishabilitate 1..2, cyprian 1
+mutatory 3: prerestrict 0..2, predenying 0..3, dishabilitate 0..2, chloritize 0
+prerestrict 13: predenying 5..9, pokes 10, goofah 8, sandpaper 0..3, digs 8, cyprian 4..6, decanally 2..7, stashing 6..7, sandpaper 2..3, germicides 2..7, culilawan 5..7, unbemourned 3..4, dryope 3, prokaryote 1..8, wainable 0..4, polyphylly 1..9, encloak 10, germicides 4..7
+oleins 2: dissevered 2, comblessness 0, reeler 1
+nonvalent 14: prokaryote 5..7, mutatory 9, decanally 6, bowdlerizer 7..8, metatheses 16, cantily 3..9, gaspereaus 0..2, gaspereaus 2, talmas 2..7, bowdlerizer 5..9, shlock 3, unbemourned 3..8, predenying 4..10, gaspereaus 1, dissevered 5, hesychastic 2, thalenite 2..6
+congruous 8: predenying 3, pokes 4, sandpaper 0..2, rigole 3..5, seriocomedy 3..7, mutatory 6, decanally 1, cyprian 0, prokaryote 3..4, observantine 0..1, polyphylly 8, chloritize 6
+talmas 4: wainable 4, uncribbing 0..2, paracerebellar 3, dissevered 2
+predenying 8: pokes 5..9, unpummeled 4, comblessness 2..3, polyphylly 5..10, nonvalent 3..10, pokes 4, hesychastic 1, congruous 10..11, reeler 3..10, culilawan 4..5, chloritize 10, dryope 0..3
+encloak 5: bowdlerizer 1..2, bowdlerizer 5, observantine 2, subfile 1..2, rigole 0..2, decanally 0, dryope 0, congruous 2..5, dryope 1
+polyphylly 7: prokaryote 0, bowdlerizer 2, metatheses 2, dishabilitate 0..3, digs 4, pokes 0, uncribbing 2, dishabilitate 1..2, dryope 1, subfile 1..2, stashing 3, encloak 1
+chroococcus 7: mutatory 8, cantily 2..5, triunity 7..9, predenying 2..9, rigole 1..4, unbemourned 2..7, encloak 1..9, rigole 4..7
+asthenobiotic 9: cantily 0, decanally 0..1, cyprian 2..4, pokes 4, gaspereaus 0, digs 1..2, digs 5, hesychastic 0, wainable 2..4, stashing 4..5, sandpaper 1..2
+rigole 6: predenying 2, sandpaper 1..2, subfile 0, asthenobiotic 5..6, subfile 4..5, unbemourned 3, predenying 5
+pokes 9: triunity 8, gaspereaus 0, dishabilitate 4..8, asthenobiotic 3..4, mutatory 0..1, predenying 3..5, stashing 0..1, prokaryote 2..3, decanally 3..4, bareheaded 0..5, dishabilitate 1..5, chroococcus 4..5, cantily 8
+cantily 5: sandpaper 0, sandpaper 1, metatheses 1, talmas 2, observantine 0, bareheaded 0..1, goofah 2
+praiseworthily 2: talmas 7, comblessness 1, bareheaded 6..7
+hesychastic 0: dissevered 3, bareheaded 1
+unbemourned 2: dissevered 1..3
+thalenite 1: encloak 0..2
+unpummeled 6: prerestrict 3..4, rigole 8..10, predenying 8..10, uncribbing 2, oleins 6..11, talmas 1..4, observantine 3..7
+digs 6: dissevered 0..3, craniospinal 1..4, chroococcus 1..3, dryope 1..2, paracerebellar 1..4
+prokaryote 8: prerestrict 10, predenying 1..5, dryope 0..2, dissevered 0..6, goofah 3, shlock 0..1, digs 2, mutatory 1..3, goofah 4..5
+cardel 9: dishabilitate 2..3, cyprian 0..1, craniospinal 9, reeler 4..7, congruous 6, decanally 5, unpummeled 3, salacot 3..4
+prokaryote 0: prerestrict 0, predenying 1
+asthenobiotic 11: cantily 0..6, decanally 0..1, cyprian 2..4, pokes 4..5, gaspereaus 0, digs 1..5, digs 2..3, hesychastic 0, wainable 3, stashing 6, sandpaper 0, paracerebellar 4, hesychastic 0, dishabilitate 1..2
+oleins 1: dissevered 3, comblessness 0, reeler 0
+reeler 1: cantily 0..2, uncribbing 0
+polyphylly 5: prokaryote 1, bowdlerizer 0, metatheses 1, dishabilitate 2, digs 1..2, pokes 0, uncribbing 1, dishabilitate 1..2, dryope 0, subfile 0
+craniospinal 11: observantine 3..7, seriocomedy 3..7, comblessness 1, chloritize 5..8, dissevered 8, culilawan 4, digs 0..6, comblessness 4, wainable 2..5, hesychastic 0
+predenying 11: pokes 2..9, unpummeled 2..4, comblessness 3..4, polyphylly 2..9, nonvalent 8..13, pokes 0..5, hesychastic 3, congruous 5..9, reeler 0..1, culilawan 5..6, chloritize 5..9, dryope 3, sandpaper 2..3, mutatory 0..7, encloak 7..9, paracerebellar 2
+predenying 0: pokes 0
+chroococcus 2: mutatory 0..1, cantily 1..2, triunity 4
+reeler 6: cantily 3, uncribbing 1..3, talmas 2, bareheaded 3, goofah 2, oleins 0..2, cyprian 1, unbemourned 2..3, digs 1, stashing 5
+gaspereaus 1: stashing 0..6, unbemourned 1..2, germicides 0..1
+goofah 3: pokes 0..1, mutatory 3, predenying 3, rigole 0..3, stashing 3
+culilawan 4: gaspereaus 0, digs 1..4, rigole 1
+salacot 3: goofah 2..3, dissevered 0..2, reeler 2, dishabilitate 7, observantine 1..2, prokaryote 7
+dryope 3: 
+cantily 8: sandpaper 0..3, sandpaper 3, metatheses 5, talmas 3..7, observantine 4, bareheaded 7..10, goofah 5..6, bowdlerizer 0..5, oleins 7..9, dissevered 5..8
+digs 1: dissevered 1
+goofah 9: pokes 8, mutatory 0..6, predenying 3..4, rigole 1..4, stashing 4..6, craniospinal 5..9, pokes 3..4, germicides 1, salacot 3, seriocomedy 4..6, mutatory 2
+observantine 1: rigole 0, seriocomedy 0, dishabilitate 3
+prerestrict 1: predenying 1, pokes 0, goofah 0
+congruous 5: predenying 2, pokes 0..1, sandpaper 0, rigole 0, seriocomedy 1, mutatory 0..1, decanally 0, cyprian 1
+predenying 4: pokes 1, unpummeled 0..1, comblessness 0, polyphylly 1, nonvalent 0..1, pokes 1
+digs 5: dissevered 2, craniospinal 0, chroococcus 4
+mutatory 9: prerestrict 12..14, predenying 4, dishabilitate 1..4, chloritize 9, congruous 5..11, dissevered 1..5, goofah 8, unbemourned 2..8, uncribbing 4..7
+predenying 5: pokes 3..4, unpummeled 2, comblessness 0..1, polyphylly 7, nonvalent 4, pokes 1..3, hesychastic 0, congruous 5..6
+chloritize 8: mutatory 1, cyprian 6, digs 1, stashing 3, decanally 3..5, comblessness 0..2, goofah 7, goofah 3..8, hesychastic 2, pokes 7..8, stashing 1..3, pidgizing 3..4
+nonvalent 8: prokaryote 3, mutatory 1..2, decanally 1, bowdlerizer 5, metatheses 1..4, cantily 1..2, gaspereaus 0, gaspereaus 0, talmas 2..3
+digs 0: 
+unbemourned 0: 
+bareheaded 7: paracerebellar 4, bowdlerizer 7, chroococcus 1, pidgizing 1..3, seriocomedy 4, asthenobiotic 1..5, gaspereaus 0, pidgizing 4
+pidgizing 2: prokaryote 0, stashing 2
+metatheses 14: predenying 4, bareheaded 0..6, salacot 2, predenying 4..9, stashing 3..8, stashing 7..10, predenying 3..7, asthenobiotic 7..9, observantine 11, stashing 0..2, praiseworthily 0..3, comblessness 4
+rigole 0: predenying 0..1
+dishabilitate 3: congruous 3..4, cyprian 0
+predenying 3: pokes 1, unpummeled 0..1, comblessness 0, polyphylly 0
+observantine 6: rigole 4..7, seriocomedy 3..4, dishabilitate 8, reeler 6..8, polyphylly 2..4
+encloak 4: bowdlerizer 0, bowdlerizer 1, observantine 1..2, subfile 0..1, rigole 0..3, decanally 0, dryope 0, congruous 3..4
+metatheses 7: predenying 3..6, bareheaded 1..7, salacot 2, predenying 5
+dishabilitate 6: congruous 3, cyprian 3..4, dryope 1, goofah 0, craniospinal 5, predenying 3..4
+germicides 5: gaspereaus 1, goofah 5..9, stashing 0..8, craniospinal 4..6, digs 6..7, unbemourned 7..8, dissevered 2, encloak 9, asthenobiotic 2..8
+unbemourned 9: dissevered 7..9, wainable 6, rigole 7, observantine 6..11, seriocomedy 10, prerestrict 9, prerestrict 7..11, dishabilitate 7..9, mutatory 7..8, pidgizing 1
+cardel 4: dishabilitate 6..7, cyprian 0..1, craniospinal 2..4
+cantily 7: sandpaper 1, sandpaper 2, metatheses 1..4, talmas 1, observantine 1, bareheaded 3..4, goofah 2, bowdlerizer 5, oleins 2..3
+cantily 3: sandpaper 0, sandpaper 0, metatheses 2, talmas 2
+cyprian 3: comblessness 0, chroococcus 3..4, encloak 0..4, craniospinal 3
+germicides 4: gaspereaus 1, goofah 9, stashing 7..8, craniospinal 7, digs 7, unbemourned 1, dissevered 1..9
+seriocomedy 10: prokaryote 4..5, rigole 0..6, predenying 1..5, uncribbing 2..4, digs 2..7, cantily 8, rigole 3..4, chroococcus 0..3
+subfile 11: chloritize 0..2, goofah 3..6, culilawan 8, paracerebellar 6, seriocomedy 6..8, prerestrict 4..11, encloak 8..9, predenying 4..11, decanally 5..6, cyprian 6, bareheaded 4..8, polyphylly 8..10
+craniospinal 6: observantine 2, seriocomedy 0..4, comblessness 0..1, chloritize 0..6, dissevered 2..3, culilawan 2, digs 5
+polyphylly 0: prokaryote 0, bowdlerizer 0
+asthenobiotic 3: cantily 0..3, decanally 0, cyprian 1, pokes 1
+dishabilitate 5: congruous 1..7, cyprian 2..3, dryope 1, goofah 3
+metatheses 4: predenying 2..4, bareheaded 3
+sandpaper 3: comblessness 3, cantily 0..3
+pidgizing 0: 
+bareheaded 0: paracerebellar 1
+wainable 4: prokaryote 0..2, prokaryote 0..3
+rigole 2: predenying 4, sandpaper 1, subfile 1
+dishabilitate 9: congruous 1..11, cyprian 6, dryope 1..2, goofah 5..7, craniospinal 9, predenying 0..3, mutatory 2..3, bowdlerizer 8, predenying 2..4
+polyphylly 8: prokaryote 0, bowdlerizer 0..2, metatheses 2, dishabilitate 3, digs 4, pokes 0..2, uncribbing 0..2, dishabilitate 2..3, dryope 0, subfile 3, stashing 2, encloak 3
+unbemourned 5: dissevered 0..2, wainable 3..4, rigole 1..4, observantine 0..3, seriocomedy 2, prerestrict 6..7
+polyphylly 11: prokaryote 3, bowdlerizer 5..8, metatheses 5..7, dishabilitate 6, digs 1..6, pokes 6, uncribbing 0..3, dishabilitate 3..5, dryope 2, subfile 3..6, stashing 0, encloak 1..6, cardel 1..2, talmas 6..7, oleins 6..7
+germicides 8: gaspereaus 1, goofah 2..5, stashing 8..10, craniospinal 7..11, digs 4, unbemourned 3..6, dissevered 3..9, encloak 2..3, asthenobiotic 9..10, bowdlerizer 6..8, nonvalent 1..7, paracerebellar 6..7, observantine 12
+oleins 3: dissevered 2, comblessness 1, reeler 4..5
+bareheaded 9: paracerebellar 2, bowdlerizer 7, chroococcus 0..3, pidgizing 1..3, seriocomedy 1..3, asthenobiotic 0..9, gaspereaus 0, pidgizing 2..4, seriocomedy 2..7, goofah 5..6
+stashing 0: dishabilitate 0, mutatory 1..2
+bareheaded 8: paracerebellar 2, bowdlerizer 4..6, chroococcus 0..4, pidgizing 4, seriocomedy 3..7, asthenobiotic 6, gaspereaus 0, pidgizing 3
+stashing 1: dishabilitate 0..1, mutatory 1..2, prerestrict 1..3
+craniospinal 1: observantine 2, seriocomedy 3..5
+paracerebellar 6: pokes 6..8, reeler 6, subfile 3..9, unpummeled 1, mutatory 4..7, cyprian 6, wainable 0..2, decanally 5, digs 6
+hesychastic 2: dissevered 2..5, bareheaded 7..9, rigole 0..4
+observantine 10: rigole 0..5, seriocomedy 5..7, dishabilitate 1..9, reeler 9..10, polyphylly 7..10, predenying 5, unpummeled 2, uncribbing 6, rigole 4..6, prerestrict 9..10, dissevered 7..8
+predenying 2: pokes 0, unpummeled 0..1, comblessness 0
+prerestrict 11: predenying 3..6, pokes 6, goofah 0..5, sandpaper 1..3, digs 6, cyprian 0..4, decanally 0, stashing 2, sandpaper 3, germicides 1..2, culilawan 3..4, unbemourned 3..4, dryope 2, prokaryote 4..6, wainable 4, polyphylly 6
+hesychastic 1: dissevered 2, bareheaded 7, rigole 3..4
+unpummeled 4: prerestrict 5..8, rigole 5..7, predenying 0..1, uncribbing 5, oleins 8..9
+subfile 9: chloritize 0..5, goofah 7, culilawan 7, paracerebellar 5, seriocomedy 0, prerestrict 5..7, encloak 1..6, predenying 5, decanally 3..4, cyprian 5
+dissevered 1: prerestrict 1, congruous 0..1
+observantine 2: rigole 0, seriocomedy 1..3, dishabilitate 1..3
+cardel 6: dishabilitate 5..6, cyprian 5, craniospinal 8, reeler 8..9
+mutatory 7: prerestrict 11, predenying 5, dishabilitate 5, chloritize 2..4, congruous 10..12, dissevered 7, goofah 5..8
+uncribbing 5: metatheses 2..4, stashing 5..6, gaspereaus 0..1, wainable 3
+congruous 2: predenying 1, pokes 0, sandpaper 0, rigole 0
+thalenite 4: encloak 2, chroococcus 1..2, gaspereaus 0, dryope 0..1, comblessness 1
+metatheses 16: predenying 7..9, bareheaded 1, salacot 1, predenying 1..5, stashing 1..9, stashing 8..9, predenying 2..10, asthenobiotic 6..11, observantine 4..8, stashing 4..9, praiseworthily 2..3, comblessness 4
+metatheses 5: predenying 4..6, bareheaded 3..5
+unbemourned 4: dissevered 0..2, wainable 2, rigole 4, observantine 2
+oleins 0: dissevered 2, comblessness 0
+wainable 7: prokaryote 4..9, prokaryote 2, unpummeled 5
+seriocomedy 1: prokaryote 0, rigole 0
+metatheses 6: predenying 3..4, bareheaded 3..6, salacot 1..2
+cardel 8: dishabilitate 1..4, cyprian 0..5, craniospinal 3..7, reeler 2..7, congruous 9, decanally 3, unpummeled 3
+dissevered 8: prerestrict 0..4, congruous 1..10, subfile 4, reeler 7..8, chloritize 1..7, craniospinal 3..9, dishabilitate 5..7, nonvalent 7..10, craniospinal 4..6
+sandpaper 1: comblessness 0..1
+stashing 6: dishabilitate 0..1, mutatory 4, prerestrict 3, decanally 0, pidgizing 0..1, reeler 1..2, mutatory 1..2, nonvalent 1
+comblessness 2: predenying 1..2, chloritize 1
+metatheses 1: predenying 2
+wainable 3: prokaryote 0, prokaryote 0
+asthenobiotic 8: cantily 2..4, decanally 0, cyprian 0..2, pokes 1, gaspereaus 0, digs 2..4, digs 5, hesychastic 0, wainable 3
+subfile 0: chloritize 0, goofah 0
+rigole 10: predenying 8..9, sandpaper 3, subfile 0..1, asthenobiotic 6..8, subfile 10, unbemourned 6..8, predenying 10, prerestrict 2..4, thalenite 8, goofah 9, bowdlerizer 5..8, congruous 6..12
+seriocomedy 12: prokaryote 7..8, rigole 1..5, predenying 1..8, uncribbing 4..7, digs 2, cantily 1..2, rigole 4..6, chroococcus 2..8, digs 8, stashing 8..11, encloak 2..3, talmas 6
+bowdlerizer 7: seriocomedy 4..7, cyprian 1..4, congruous 0..8, reeler 6, chloritize 5, wainable 1..2, sandpaper 0..1, prokaryote 5, talmas 2..3
+goofah 4: pokes 4, mutatory 1..2, predenying 1..5, rigole 0..5, stashing 2..3, craniospinal 4
+metatheses 10: predenying 5, bareheaded 5..10, salacot 2, predenying 6, stashing 7, stashing 4, predenying 6
+paracerebellar 5: pokes 0..4, reeler 7..8, subfile 6, unpummeled 3, mutatory 1, cyprian 3..4, wainable 2..4, decanally 1..2
+seriocomedy 2: prokaryote 0, rigole 0, predenying 0..1
+paracerebellar 0: pokes 0
+craniospinal 0: observantine 0
+thalenite 2: encloak 0..4, chroococcus 3..4, gaspereaus 0
+triunity 0: uncribbing 0, chroococcus 0
+chloritize 4: mutatory 3, cyprian 0, digs 4, stashing 3, decanally 0, comblessness 0..1, goofah 0..2
+mutatory 1: prerestrict 1, predenying 1, dishabilitate 0
+subfile 2: chloritize 0, goofah 0..2, culilawan 2, paracerebellar 2
+chroococcus 6: mutatory 4..6, cantily 1..3, triunity 3..6, predenying 0..2, rigole 6, unbemourned 0..1
+unbemourned 3: dissevered 3, wainable 1
+unbemourned 10: dissevered 7..8, wainable 3..5, rigole 8, observantine 4..12, seriocomedy 2..5, prerestrict 11, prerestrict 3..12, dishabilitate 7..9, mutatory 0..1, pidgizing 4..6
+subfile 10: chloritize 10, goofah 4..9, culilawan 0..7, paracerebellar 3, seriocomedy 1..6, prerestrict 11..12, encloak 0..9, predenying 5..9, decanally 2..5, cyprian 3..5, bareheaded 7..10, polyphylly 7..10
+chloritize 1: mutatory 0..1, cyprian 1, digs 0..2
+predenying 1: pokes 0
+prerestrict 2: predenying 0, pokes 0, goofah 0, sandpaper 0, digs 1
+dryope 0: 
+stashing 5: dishabilitate 3, mutatory 2, prerestrict 5..7, decanally 0, pidgizing 2, reeler 2, mutatory 0..3
+thalenite 3: encloak 4, chroococcus 3..4, gaspereaus 0
+cardel 1: dishabilitate 1, cyprian 0
+polyphylly 3: prokaryote 1, bowdlerizer 1, metatheses 2, dishabilitate 2..3, digs 1..3, pokes 1, uncribbing 0
+polyphylly 1: prokaryote 0, bowdlerizer 2, metatheses 1..2, dishabilitate 3
+bareheaded 11: paracerebellar 2..6, bowdlerizer 8, chroococcus 1..7, pidgizing 3..4, seriocomedy 11, asthenobiotic 11, gaspereaus 1..2, pidgizing 3..4, seriocomedy 5..6, goofah 3..5, pidgizing 5
+observantine 7: rigole 5..6, seriocomedy 1..2, dishabilitate 3..5, reeler 2..9, polyphylly 11
+chroococcus 5: mutatory 4..6, cantily 3, triunity 2, predenying 5..6, rigole 5..6, unbemourned 0..2
+asthenobiotic 10: cantily 5..7, decanally 1, cyprian 3..4, pokes 2..4, gaspereaus 0, digs 3, digs 4..5, hesychastic 0, wainable 0..1, stashing 0..5, sandpaper 1, paracerebellar 1
+seriocomedy 6: prokaryote 0..1, rigole 1..2, predenying 3..4, uncribbing 2, digs 2
+cyprian 4: comblessness 1..2, chroococcus 2..4, encloak 1..3, craniospinal 1..2
+prokaryote 9: prerestrict 2..9, predenying 8..9, dryope 3, dissevered 8..9, goofah 8, shlock 2, digs 2..4, mutatory 5..6, goofah 2..9, salacot 0..4, decanally 0..4
+encloak 0: bowdlerizer 2
+paracerebellar 7: pokes 0..3, reeler 2, subfile 1..8, unpummeled 1, mutatory 5..6, cyprian 1..3, wainable 3..4, decanally 0..1, digs 4..6
+paracerebellar 3: pokes 3..4, reeler 4, subfile 1..3, unpummeled 2, mutatory 2..5
+subfile 1: chloritize 0, goofah 0..1, culilawan 0..1
+pokes 2: triunity 3..4, gaspereaus 0, dishabilitate 1..2
+prokaryote 5: prerestrict 1..8, predenying 2..5, dryope 1, dissevered 2, goofah 2
+thalenite 10: encloak 3..5, chroococcus 4..6, gaspereaus 1, dryope 0, comblessness 2..3, dishabilitate 3..5, mutatory 7..8, triunity 8, reeler 6..12
+chroococcus 3: mutatory 1..2, cantily 1, triunity 3, predenying 3..4
+prerestrict 9: predenying 1..4, pokes 2, goofah 3, sandpaper 2, digs 5, cyprian 2..4, decanally 0, stashing 3..4, sandpaper 0..2, germicides 0, culilawan 1..2, unbemourned 3, dryope 0
+goofah 1: pokes 0, mutatory 0..1, predenying 0..1, rigole 0
+talmas 3: wainable 1..2, uncribbing 1..3
+culilawan 8: gaspereaus 1, digs 4..7, rigole 8, congruous 8..11, prokaryote 4..5
+seriocomedy 0: prokaryote 0, rigole 0
+metatheses 0: predenying 0
+congruous 11: predenying 6, pokes 4..8, sandpaper 0..2, rigole 6, seriocomedy 3..7, mutatory 3..4, decanally 1..3, cyprian 2..5, prokaryote 3..6, observantine 0..1, polyphylly 7..8, chloritize 2..7, bowdlerizer 7, reeler 8..9
+triunity 3: uncribbing 0, chroococcus 0, observantine 0, prerestrict 2, rigole 0
+chroococcus 4: mutatory 1..2, cantily 1, triunity 3..4, predenying 4, rigole 0..2, unbemourned 0..3
+pidgizing 4: prokaryote 3..4, stashing 0..5, prokaryote 2..4, chloritize 3..5
+cyprian 6: comblessness 1..2, chroococcus 0..3, encloak 4, craniospinal 2..8, mutatory 4..6
+metatheses 15: predenying 7, bareheaded 6, salacot 3, predenying 9..10, stashing 1..5, stashing 4..9, predenying 0..6, asthenobiotic 11, observantine 1..3, stashing 5..9, praiseworthily 1, comblessness 4
+reeler 8: cantily 5..7, uncribbing 0..3, talmas 2..3, bareheaded 3..5, goofah 2..3, oleins 0, cyprian 3, unbemourned 4, digs 0..5, stashing 3, seriocomedy 4..7, pokes 1..2
+nonvalent 6: prokaryote 2..3, mutatory 2..5, decanally 0, bowdlerizer 5, metatheses 3..4, cantily 0..3, gaspereaus 0, gaspereaus 0
+chloritize 2: mutatory 3, cyprian 1, digs 1
+digs 3: dissevered 3, craniospinal 0
+decanally 3: prokaryote 3, comblessness 3, goofah 5, nonvalent 8..11
+polyphylly 10: prokaryote 6, bowdlerizer 4..7, metatheses 5..6, dishabilitate 0..4, digs 0..2, pokes 1..5, uncribbing 2, dishabilitate 4..7, dryope 2, subfile 7, stashing 1..5, encloak 1..2, cardel 6..9
+bowdlerizer 6: seriocomedy 0..5, cyprian 1..4, congruous 1, reeler 8, chloritize 1..3, wainable 3, sandpaper 0..2, prokaryote 0..1
+reeler 5: cantily 3, uncribbing 1, talmas 1, bareheaded 2, goofah 2, oleins 1..2, cyprian 1, unbemourned 0, digs 0..1
+subfile 3: chloritize 0, goofah 0..1, culilawan 2, paracerebellar 0..2
+pidgizing 6: prokaryote 1..8, stashing 3..8, prokaryote 6..8, chloritize 8..9, cardel 7..10, cardel 5..7
+cardel 5: dishabilitate 3..4, cyprian 5, craniospinal 0..4, reeler 8
+chroococcus 8: mutatory 3..5, cantily 5..8, triunity 7..10, predenying 0..7, rigole 2..4, unbemourned 9, encloak 2..10, rigole 1..7
+goofah 7: pokes 4..7, mutatory 3..6, predenying 2..3, rigole 6, stashing 0..6, craniospinal 3, pokes 4..7, germicides 1..2, salacot 2..3
+pidgizing 5: prokaryote 7, stashing 5..6, prokaryote 4..5, chloritize 2..5, cardel 2
+decanally 2: prokaryote 2..3, comblessness 1..3, goofah 0..2
+seriocomedy 9: prokaryote 4, rigole 8, predenying 2..3, uncribbing 5, digs 6, cantily 2..6
+rigole 4: predenying 1..4, sandpaper 2, subfile 1, asthenobiotic 3..5
+bowdlerizer 0: seriocomedy 0
+bareheaded 6: paracerebellar 1..2, bowdlerizer 0..2, chroococcus 0..3, pidgizing 4, seriocomedy 1..7, asthenobiotic 5
+craniospinal 7: observantine 1..3, seriocomedy 0..4, comblessness 0, chloritize 7, dissevered 2, culilawan 1..2, digs 1
+bowdlerizer 1: seriocomedy 0, cyprian 0
+cyprian 0: comblessness 0, chroococcus 1
+polyphylly 4: prokaryote 1, bowdlerizer 0, metatheses 0, dishabilitate 1..2, digs 2..3, pokes 0..1, uncribbing 0, dishabilitate 1..3, dryope 0
+germicides 2: gaspereaus 0, goofah 1..6, stashing 4, craniospinal 5..8, digs 5
+rigole 5: predenying 1, sandpaper 2, subfile 1, asthenobiotic 1..7, subfile 2..3, unbemourned 0
+dissevered 5: prerestrict 6..10, congruous 0..4, subfile 4..5, reeler 3..4, chloritize 5..7, craniospinal 7, dishabilitate 7
+thalenite 9: encloak 1..8, chroococcus 6..8, gaspereaus 2, dryope 2..3, comblessness 1, dishabilitate 4..9, mutatory 6..7, triunity 10, reeler 5..6
+mutatory 4: prerestrict 0..4, predenying 2..4, dishabilitate 3, chloritize 3..4, congruous 4..5, dissevered 1
+nonvalent 7: prokaryote 1..4, mutatory 5, decanally 0, bowdlerizer 5, metatheses 2..4, cantily 0..4, gaspereaus 0, gaspereaus 0, talmas 1
+dishabilitate 2: 
+encloak 2: bowdlerizer 1, bowdlerizer 1, observantine 2, subfile 0, rigole 1
+sandpaper 4: comblessness 1..4, cantily 7
+observantine 11: rigole 4, seriocomedy 9, dishabilitate 7..8, reeler 7, polyphylly 9..10, predenying 9, unpummeled 1, uncribbing 7, rigole 6..7, prerestrict 6, dissevered 5, bowdlerizer 6..9
+digs 7: dissevered 2..4, craniospinal 7, chroococcus 2..4, dryope 2, paracerebellar 3..5, cyprian 1..4, mutatory 2
+bareheaded 3: paracerebellar 2, bowdlerizer 0..2, chroococcus 3
+observantine 4: rigole 2..3, seriocomedy 4, dishabilitate 4..6, reeler 8..9
+mutatory 0: prerestrict 0, predenying 0
+congruous 0: predenying 0, pokes 0
+cantily 4: sandpaper 1, sandpaper 1, metatheses 1..2, talmas 2, observantine 1, bareheaded 3
+comblessness 1: predenying 2..3
+dryope 2: 
+encloak 3: bowdlerizer 2, bowdlerizer 0..2, observantine 2, subfile 0, rigole 1, decanally 0
+bareheaded 10: paracerebellar 0..2, bowdlerizer 6..7, chroococcus 4, pidgizing 1..5, seriocomedy 5..7, asthenobiotic 1..7, gaspereaus 1, pidgizing 2..5, seriocomedy 5..7, goofah 4..5, pidgizing 1
+decanally 1: prokaryote 1..2, comblessness 0..2
+talmas 2: wainable 0..2
+thalenite 8: encloak 0, chroococcus 5..7, gaspereaus 0..2, dryope 2, comblessness 1..2, dishabilitate 1..7, mutatory 7..8
+prokaryote 1: prerestrict 4, predenying 0..1, dryope 0, dissevered 2
+nonvalent 10: prokaryote 4, mutatory 0..3, decanally 1, bowdlerizer 5, metatheses 3, cantily 7, gaspereaus 0, gaspereaus 0, talmas 2..3, bowdlerizer 6, shlock 0..1, unbemourned 1..3
+shlock 0: bareheaded 1..2, prerestrict 8..9
+mutatory 5: prerestrict 4..6, predenying 1..4, dishabilitate 1..2, chloritize 4, congruous 4..5, dissevered 0, goofah 1..2
+reeler 0: cantily 0
+encloak 7: bowdlerizer 1..5, bowdlerizer 0..4, observantine 2, subfile 0..5, rigole 3..5, decanally 0..1, dryope 2, congruous 6..7, dryope 0..2, prokaryote 2..3, decanally 0..1
+craniospinal 4: observantine 2, seriocomedy 0..4, comblessness 2, chloritize 0..2, dissevered 2, culilawan 0..2
+pokes 0: 
+reeler 7: cantily 2..5, uncribbing 0..1, talmas 3, bareheaded 4, goofah 2..3, oleins 0..1, cyprian 1..4, unbemourned 2..3, digs 5, stashing 3..6, seriocomedy 6, pokes 3
+thalenite 7: encloak 3..4, chroococcus 4, gaspereaus 0, dryope 2, comblessness 0
+sandpaper 0: 
+nonvalent 2: prokaryote 0, mutatory 2, decanally 0
+seriocomedy 4: prokaryote 0, rigole 0, predenying 0..3, uncribbing 0..1
+shlock 3: bareheaded 0..4, prerestrict 3..9, pokes 8..9, bareheaded 5, craniospinal 5..8, germicides 0..5
+congruous 12: predenying 0..3, pokes 2..3, sandpaper 2, rigole 3..6, seriocomedy 4..6, mutatory 5..6, decanally 4..5, cyprian 3, prokaryote 5, observantine 3..4, polyphylly 1..6, chloritize 1..7, bowdlerizer 2..6, reeler 10, unbemourned 2..3, nonvalent 3..11
+subfile 7: chloritize 3..5, goofah 1, culilawan 6, paracerebellar 5, seriocomedy 5, prerestrict 3, encloak 1
+observantine 12: rigole 10, seriocomedy 6..8, dishabilitate 8..9, reeler 3..12, polyphylly 0..3, predenying 6..9, unpummeled 1, uncribbing 0..5, rigole 0..1, prerestrict 3..10, dissevered 8, bowdlerizer 6..9, digs 7
+culilawan 5: gaspereaus 0, digs 2..5, rigole 3
+oleins 11: dissevered 8, comblessness 2, reeler 4..10, metatheses 5..7, sandpaper 0, cyprian 4..5, pokes 3..5, chloritize 2..7, nonvalent 6..10, asthenobiotic 8..10, sandpaper 0..2, asthenobiotic 4..11, dryope 0..1, cyprian 3..4, germicides 2
+cardel 12: dishabilitate 4..9, cyprian 6, craniospinal 3, reeler 5, congruous 10, decanally 3..5, unpummeled 0..4, salacot 3..4, digs 0..8, talmas 7..8, uncribbing 5..7
+triunity 5: uncribbing 0, chroococcus 2..4, observantine 0, prerestrict 2, rigole 4..5, metatheses 2..4, cyprian 2
+bareheaded 2: paracerebellar 2
+pokes 7: triunity 2..5, gaspereaus 0, dishabilitate 7, asthenobiotic 0..11, mutatory 3..5, predenying 5..6, stashing 4, prokaryote 5..6, decanally 1, bareheaded 7, dishabilitate 3..7, chroococcus 3..4
+triunity 1: uncribbing 0, chroococcus 1
+cardel 11: dishabilitate 6..7, cyprian 1..2, craniospinal 4, reeler 2..6, congruous 11, decanally 3..5, unpummeled 2..3, salacot 2..3, digs 2, talmas 6..7
+culilawan 1: 
+prerestrict 0: predenying 0, pokes 0
+salacot 4: goofah 8, dissevered 0..1, reeler 3..8, dishabilitate 4..6, observantine 1..4, prokaryote 4..7, decanally 3
+unpummeled 3: prerestrict 7..8, rigole 5, predenying 4, uncribbing 0..2, oleins 1..2
+prokaryote 7: prerestrict 3..6, predenying 3..5, dryope 0..2, dissevered 1..3, goofah 1..3, shlock 0, digs 4, mutatory 2..4
+nonvalent 4: prokaryote 0, mutatory 2, decanally 0, bowdlerizer 2, metatheses 2, cantily 0, gaspereaus 0
+oleins 4: dissevered 1..2, comblessness 2, reeler 5, metatheses 2, sandpaper 2
+cardel 10: dishabilitate 7..8, cyprian 0..4, craniospinal 9, reeler 3..7, congruous 5..6, decanally 0..3, unpummeled 2, salacot 1..2, digs 1..5
+chloritize 10: mutatory 5..6, cyprian 1..5, digs 1..2, stashing 5..6, decanally 5, comblessness 1..2, goofah 3..4, goofah 1..7, hesychastic 0, pokes 7..8, stashing 7, pidgizing 4, pidgizing 2..3, asthenobiotic 9..11, digs 4..7
+dissevered 9: prerestrict 2..3, congruous 11..12, subfile 5, reeler 7..8, chloritize 4..10, craniospinal 0..9, dishabilitate 2..3, nonvalent 12, craniospinal 3..5, comblessness 1..2, goofah 5..6
+stashing 2: dishabilitate 0..1, mutatory 2, prerestrict 4, decanally 0
+talmas 5: wainable 4, uncribbing 1..3, paracerebellar 0..3, dissevered 5, subfile 1..6
+stashing 3: dishabilitate 0..2, mutatory 2, prerestrict 3..4, decanally 0, pidgizing 0..1
+paracerebellar 2: pokes 1, reeler 1..2, subfile 0, unpummeled 1
+asthenobiotic 4: cantily 2..3, decanally 0, cyprian 1, pokes 2
+decanally 0: prokaryote 0
+seriocomedy 5: prokaryote 0..1, rigole 1, predenying 2..4, uncribbing 0..1
+thalenite 11: encloak 10, chroococcus 0..3, gaspereaus 1, dryope 3, comblessness 1..3, dishabilitate 3..8, mutatory 4..6, triunity 10, reeler 1..5
+bowdlerizer 2: seriocomedy 0, cyprian 0
+dissevered 2: prerestrict 0, congruous 1..4, subfile 0
+cyprian 5: comblessness 3, chroococcus 4, encloak 7, craniospinal 5..6, mutatory 3
+uncribbing 2: metatheses 0..1, stashing 0..3
+cardel 7: dishabilitate 7..8, cyprian 0..1, craniospinal 4..8, reeler 4..6, congruous 6..7, decanally 2
+wainable 2: prokaryote 0
+reeler 2: cantily 0..2, uncribbing 0..1, talmas 0, bareheaded 0
+uncribbing 0: 
+chroococcus 0: mutatory 1
+unpummeled 5: prerestrict 6..7, rigole 6..7, predenying 9, uncribbing 0..7, oleins 0, talmas 1..3, observantine 8
+congruous 7: predenying 0..3, pokes 1..2, sandpaper 0..1, rigole 0..2, seriocomedy 4, mutatory 2, decanally 0, cyprian 0, prokaryote 1, observantine 0..1, polyphylly 3..6
+observantine 5: rigole 1..5, seriocomedy 0..5, dishabilitate 3..5, reeler 6..8
+predenying 10: pokes 4..6, unpummeled 3..5, comblessness 3..4, polyphylly 6..9, nonvalent 5..12, pokes 2..4, hesychastic 2..3, congruous 9..12, reeler 11, culilawan 2..7, chloritize 10, dryope 3, sandpaper 0..3, mutatory 0..3
+chloritize 5: mutatory 2..5, cyprian 2, digs 3..4, stashing 1..3, decanally 0, comblessness 0..1, goofah 3, goofah 0..2, hesychastic 0
+cantily 9: sandpaper 3, sandpaper 1, metatheses 9..12, talmas 0..2, observantine 6..10, bareheaded 10, goofah 1..5, bowdlerizer 1..6, oleins 11, dissevered 4..5
+comblessness 3: predenying 2..3, chloritize 6
+prerestrict 14: predenying 0..8, pokes 6..9, goofah 2..6, sandpaper 0, digs 8, cyprian 0..5, decanally 7, stashing 11, sandpaper 2..3, germicides 1..7, culilawan 0..5, unbemourned 4..5, dryope 2..3, prokaryote 2..3, wainable 1..6, polyphylly 0..4, encloak 3..4, germicides 2..4, talmas 7
+germicides 7: gaspereaus 0..1, goofah 0..2, stashing 3..5, craniospinal 9, digs 6..7, unbemourned 0..5, dissevered 0..1, encloak 10, asthenobiotic 1..10, bowdlerizer 8..9, nonvalent 4..11, paracerebellar 7
+unpummeled 1: prerestrict 0, rigole 0, predenying 0..1
+goofah 0: pokes 0, mutatory 0
+cyprian 1: comblessness 0, chroococcus 1, encloak 0
+paracerebellar 1: pokes 0, reeler 0, subfile 0
+triunity 8: uncribbing 3, chroococcus 4..5, observantine 3..5, prerestrict 3..5, rigole 7, metatheses 3..9, cyprian 0..6, dryope 0..1, rigole 5..7, dissevered 2..5, observantine 0..1, talmas 1..4
+digs 9: dissevered 2..5, craniospinal 3..6, chroococcus 4..5, dryope 3, paracerebellar 6..7, cyprian 3..6, mutatory 9, bowdlerizer 9, encloak 7..10
